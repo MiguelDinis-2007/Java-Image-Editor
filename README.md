@@ -18,4 +18,5 @@ An Image Editor application developed in Java as a 1st-year academic project for
 3. Ensure the ".jar" file inside the "lib/" folder is added to your Project Structure as a library.
 4. Run the main method to launch the editor interface!
 
+> **Note:** To select a part of the image (for darkenArea, crop, copy, cut and paste): select a pixel with the right mouse button and then another one to create a selection area
 > **Note:** The `monalisa.jpg` file is included in the root directory to be used as a test image.
