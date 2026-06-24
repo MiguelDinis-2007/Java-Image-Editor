@@ -10,12 +10,12 @@ An Image Editor application developed in Java as a 1st-year academic project for
 
 ## 🛠️ Technologies Used
 * **Language:** Java
-* **Libraries:** ISCTE custom GUI library ("pt.iscte.greyditor")
+* **Libraries:** ISCTE custom GUI library (`pt.iscte.greyditor`)
 
 ## ⚙️ How to Run Locally
 1. Clone this repository to your local machine.
 2. Open the project in an IDE like IntelliJ IDEA or Eclipse.
-3. Ensure the ".jar" file inside the "lib/" folder is added to your Project Structure as a library.
+3. Ensure the `.jar` file inside the `lib/` folder is added to your Project Structure as a library.
 4. Run the main method to launch the editor interface!
 
 > **Note:** To select a part of the image (for darkenArea, crop, copy, cut and paste): select a pixel with the right mouse button and then another one to create a selection area
